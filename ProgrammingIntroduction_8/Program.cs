@@ -2,7 +2,7 @@
 
 using System.Diagnostics;
 
-//checking bro
+//checking man
 // example 0 - first program
 Console.WriteLine("Hello World!");
 // Console.ReadKey();
