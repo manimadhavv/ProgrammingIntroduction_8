@@ -2,7 +2,7 @@
 
 using System.Diagnostics;
 
-//group
+//group 1
 // example 0 - first program
 Console.WriteLine("Hello World!");
 // Console.ReadKey();
@@ -36,7 +36,6 @@ catch (Exception e)
 {
     Console.WriteLine(e.Message);
 }
-
 // example 1 - simple computation
 // M disambiguates between double and decimal
 decimal income = 10000000.45M;
